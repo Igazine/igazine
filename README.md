@@ -8,7 +8,7 @@ ActionScript 3 code libraries
 Description: I've been experimenting with technologies for strengthening security for online commercial services and websites
 
 **FSecurity class**
-* **static function fingerPrint():String** - Uniquely indentifies a user according to system parameters. Returns an MD5 hashed string of the actual user's Flash fingerpring
+* **static function fingerPrint():String** - Uniquely indentifies a user according to system parameters. Returns an MD5 hashed string of the actual user's Flash fingerprint
 
 ###Package **org.igazine.filters**
 
