@@ -5,6 +5,6 @@ ActionScript 3 code libraries
 
 ###Package **org.igazine.security**
 
-I've been experimenting with technologies of how to uniquely identify a user in desktop/web Flash applications
+Description: I've been experimenting with technologies for strengthening security for online commercial services and websites
 
 FSecurity class
