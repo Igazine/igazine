@@ -1,11 +1,9 @@
-igazine
-=======
+h1. ActionScript 3 code libraries
 
-ActionScript 3 code libraries by Igazine
+*Igazine's Code*
 
-Package org.igazine.security
+h2. Package org.igazine.security
 
-  FSecurity
-  
-  - I've been experimenting with technologies of how to uniquely identify a user in desktop/web Flash applications
-    
+p. I've been experimenting with technologies of how to uniquely identify a user in desktop/web Flash applications
+
+h3. FSecurity class
