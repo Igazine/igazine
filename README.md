@@ -7,4 +7,5 @@ ActionScript 3 code libraries
 
 Description: I've been experimenting with technologies for strengthening security for online commercial services and websites
 
-FSecurity class
+**FSecurity class**
+* **static function fingerPrint()** - Uniquely indentifies a user according to system parameters
